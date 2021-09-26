@@ -1,7 +1,7 @@
 .idea/
 *.csv
 *.pdf
-*.DS_Store/
+*.DS_Store
 *.ipynb_checkpoints/
 .python-version
 
